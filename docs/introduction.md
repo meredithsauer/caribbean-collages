@@ -3,3 +3,20 @@ layout: page
 title: "Introduction"
 permalink: /intro/
 ---
+# Introduction
+
+What took place in the Caribbean, which could be summed up in the word creolization, approximates the idea of Relation for us as nearly as possible. It is not merely an encounter, a shock […] a métissage, but a new and original dimension allowing each person to be there and elsewhere, rooted and open, lost in the mountains and free beneath the sea, in harmony and in errantry. 
+
+-Edouard Glissant, Poetics of Relation
+
+The space of the Caribbean has been defined by scholars as marked by “its fragmentation; its instability; its reciprocal isolation; its uprootedness; its cultural heterogeneity; its lack of historiography and historical continuity; its contingency and impermanence; its syncretism” (Benítez-Rojo 1). The Caribbean has the dubious distinction of being the first region in which European colonists established the plantation system. The Caribbean “received more African slaves over a longer period of time, produced more sugar, and developed the most regimented plantation system of any region in the Americas” (Morgan 10). This prolonged period of encounter had an enormous human cost and resulted in profound cultural hybridization. Further, it’s difficult to separate the process of cultural creolization from a biological or ecological creolization. A kind of “creole ecology” resulted from the “constant arrival, dispersal, and mingling of new plants and animals” (Morgan 11). 
+
+Despite the impact of colonization, slavery, and the plantation system on the Caribbean landscape, postcolonial studies and ecocriticism as critical lenses for the literature of the region have historically been at odds, with postcolonial studies thought of has inherently anthropocentric (Huggan, James, Nixon). Postcolonialism is about hybridity; ecocriticism is about purity. Postcolonialism is concerned with displacement; ecocriticism is rooted in sense of place. 
+
+Caribbean Literature and the Environment: Between Nature and Culture, edited by Elizabeth DeLoughrey, Renee Gosson, and George Handley (2005) is one of the first full-length studies of the role of the environment in Caribbean literature. In their introduction, they write of the importance of examining   examining the relationship between cultural and ecological creolization together: 
+
+“This exchange [that of plants, animals, humans, and disease between the Caribbean and Europe] was hardly mutually beneficial or even equitable. But emphasizing the transatlantic circuits of creolization destabilizes a presumed European purity and stability. In the Caribbean context, the discourse of creolization not only has served to emphasize the inevitable fragmentation of racial memory in the region, but it has helped to conflate human and natural histories, a welcomed shift that warns against the pretension that human societies can act independently of ecosystems.” (19)
+
+This is the starting point for my investigation. I have selected three novels by Caribbean authors—Jean Rhys’s Voyage in the Dark (1934), Michelle Cliff’s No Telephone to Heaven (1987), and Jamaica Kincaid’s Lucy (1990)—that are located between the Anglophone Caribbean and Europe or the United States. Each of the three female protagonists is displaced from her home island and grapples with hybrid, cross-cultural identity. [say something about these characters’ races] These novels are also deeply interested in the environment, the differences between a tropical and a temperate ecosystem, the way the home environment is replicated in memory and grafted onto a foreign environment. 
+
+Paying close attention to the way that the Caribbean landscape is written in these novels, the way that characters remember it and dream it, the way it is placed into relation with a disparate, unfamiliar European or North American landscape reveals a conception of land that pushes against colonial ideas of land as territory ripe for possession, domination, and cultivation, and the idea that there is only one history of conquest. 
