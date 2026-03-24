@@ -3,8 +3,6 @@ layout: page
 title: "Artist Statement"
 permalink: /artist-statement/
 ---
-# Artist Statement
-
 ## Questions
 This project is about the environment in Caribbean literature, but it is ultimately an experiment in the reading and representation of texts. How can I visualize the way someone might read a text or set of texts thematically? How can I capture the experience of encountering various throughlines in a set of works. What does it mean to trace allusions and repetitions into one giant web? How can I visually represent these texts as their own ecosystem with a set of circular, cyclic interactions?
 
