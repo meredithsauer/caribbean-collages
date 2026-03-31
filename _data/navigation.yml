@@ -1,0 +1,11 @@
+main: 
+  - title: "About"
+    url: "/about/"
+  - title: "Introduction"
+    url: "/introduction/"
+  - title: "Project"
+    url: "/project/"
+  - title: "Artist Statement"
+    url: "/artist-statement/"
+  - title: "Bibliography"
+    url: "/bibliography/"
