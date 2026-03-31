@@ -3,10 +3,6 @@ layout: page
 title: "Introduction"
 permalink: /intro/
 ---
-What took place in the Caribbean, which could be summed up in the word creolization, approximates the idea of Relation for us as nearly as possible. It is not merely an encounter, a shock […] a métissage, but a new and original dimension allowing each person to be there and elsewhere, rooted and open, lost in the mountains and free beneath the sea, in harmony and in errantry. 
-
--Edouard Glissant, Poetics of Relation
-
 The space of the Caribbean has been defined by scholars as marked by “its fragmentation; its instability; its reciprocal isolation; its uprootedness; its cultural heterogeneity; its lack of historiography and historical continuity; its contingency and impermanence; its syncretism” (Benítez-Rojo 1). The Caribbean has the dubious distinction of being the first region in which European colonists established the plantation system. The Caribbean “received more African slaves over a longer period of time, produced more sugar, and developed the most regimented plantation system of any region in the Americas” (Morgan 10). This prolonged period of encounter had an enormous human cost and resulted in profound cultural hybridization. Further, it’s difficult to separate the process of cultural creolization from a biological or ecological creolization. A kind of “creole ecology” resulted from the “constant arrival, dispersal, and mingling of new plants and animals” (Morgan 11). 
 
 Despite the impact of colonization, slavery, and the plantation system on the Caribbean landscape, postcolonial studies and ecocriticism as critical lenses for the literature of the region have historically been at odds, with postcolonial studies thought of has inherently anthropocentric (Huggan, James, Nixon). Postcolonialism is about hybridity; ecocriticism is about purity. Postcolonialism is concerned with displacement; ecocriticism is rooted in sense of place. 
