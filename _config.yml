@@ -40,6 +40,15 @@ locale: "en-US"
 
 masthead_title: "Caribbean Collages"
 
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
