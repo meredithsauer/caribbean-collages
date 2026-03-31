@@ -40,6 +40,8 @@ locale: "en-US"
 
 masthead_title: "Caribbean Collages"
 
+include: ["_pages"]
+
 defaults:
   # _pages
   - scope:
