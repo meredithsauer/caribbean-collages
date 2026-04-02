@@ -6,3 +6,4 @@ permalink: /
 
 -Edouard Glissant, *Poetics of Relation*
 
+<a href="{{ '/introduction/' | relative_url }}" >Start Here</a>
