@@ -10,14 +10,14 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-    <div id="home-banner" class="container-fluid mt-3 mb-5">
-        <div id="title-box" class="col-md-5 py-3 px-5 text-white bg-dark bg-opacity-75 rounded">
-            <h1 class="display-2">{{ site.title }}</h1>
-            {% if site.subtitle %}<p class="mb-0">{{ site.subtitle }}</p>{% endif %}
+    <div id="home-banner">
+        <div id="title-box">
+            <h1>{{ site.title }}</h1>
+            {% if site.subtitle %}<p>{{ site.subtitle }}</p>{% endif %}
         </div>
         <section class="page__content" itemprop="text">
           {{ content }}
         </section>
-            <a id="toc-box" class="py-3 px-5 display-6 fs-2 text-white bg-dark bg-opacity-75 rounded" href="{{ '/introduction/' | relative_url }}" >Start Here</a>
+            <a href="{{ '/introduction/' | relative_url }}" >Start Here</a>
             
 </div>
