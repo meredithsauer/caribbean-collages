@@ -1,13 +1,14 @@
 ---
+title: "Collages of the Environment in Caribbean Literature"
 layout: splash
 permalink: /
 excerpt: "A hypertextual experiment in close reading"
 header:
-    image: /assets/img/coconut.jpg
+    overlay_image: /assets/img/coconut.jpg
     overlay_filter: 0.5
     actions:
-        - label: "Start Here"
-        - url: https://meredithsauer.github.io/caribbean-collages/introduction/
+    - label: "Start Here"
+      url: https://meredithsauer.github.io/caribbean-collages/introduction/
 ---
 > What took place in the Caribbean, which could be summed up in the word creolization, approximates the idea of Relation for us as nearly as possible. It is not merely an encounter, a shock ... a métissage, but a new and original dimension allowing each person to be there and elsewhere, rooted and open, lost in the mountains and free beneath the sea, in harmony and in errantry. 
 
