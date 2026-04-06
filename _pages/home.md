@@ -2,7 +2,7 @@
 title: "Collages of the Environment in Caribbean Literature"
 layout: splash
 permalink: /
-excerpt: "A hypertextual experiment in close reading"
+excerpt: "A hypertextual experiment in ecosystems of close reading"
 header:
     overlay_image: /assets/img/coconut.jpg
     overlay_filter: 0.5
