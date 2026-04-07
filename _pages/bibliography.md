@@ -1,7 +1,11 @@
 ---
 title: "Bibliography"
 permalink: /bibliography/
+toc: true
+toc_sticky: true
+toc_icon: "book"
 ---
+
 ## Works Cited
 Ballinger, Adriana, and Tori Champion. "Jasmine: The Sensual and the Sacred." *Plant Humanities Lab*, Dumbarton Oaks, [https://lab.plant-humanities.org/jasmine](https://lab.plant-humanities.org/jasmine).
 
