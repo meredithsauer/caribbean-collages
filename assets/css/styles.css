@@ -1,8 +1,8 @@
 
-#twine {
-  display: grid;
-  place-items: center;
+.initial-content {
+    text-align: center !important;
 }
+
 #twine-button-container {
     text-align: center;
     display: grid;
