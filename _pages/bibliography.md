@@ -3,7 +3,7 @@ title: "Bibliography"
 permalink: /bibliography/
 ---
 ## Works Cited
-Ballinger, Adriana, and Tori Champion. "Jasmine: The Sensual and the Sacred." Plant Humanities Lab, Dumbarton Oaks, [https://lab.plant-humanities.org/jasmine](https://lab.plant-humanities.org/jasmine).
+Ballinger, Adriana, and Tori Champion. "Jasmine: The Sensual and the Sacred." *Plant Humanities Lab*, Dumbarton Oaks, [https://lab.plant-humanities.org/jasmine](https://lab.plant-humanities.org/jasmine).
 
 Benítez-Rojo, Antonio. *The Repeating Island: The Caribbean and the Postmodern Perspective*. Duke University Press, 1996. 
 
