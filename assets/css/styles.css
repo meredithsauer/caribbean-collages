@@ -3,6 +3,17 @@
   display: grid;
   place-items: center;
 }
-#twine a {
-    padding: 10px
+#twine-button-container {
+    text-align: center;
+    display: grid;
+    place-items: center;
+    padding: 10px;
+    text-align: center;
+}
+#twine-btn {
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
 }
