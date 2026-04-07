@@ -1,6 +1,9 @@
 ---
 title: About
 permalink: /about/
+toc: true
+toc_sticky: true
+toc_icon: "book"
 ---
 *Collages of the Environment in Caribbean Literature* is a capstone project produced to satisfy the requirements of the MA in Digital Humanities at Loyola University Chicago.
 
