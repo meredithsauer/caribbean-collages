@@ -2,10 +2,9 @@
 title: "Introduction"
 permalink: /introduction/
 sidebar:
-  - title: ""
+  - title: '[Continue to Project](https://meredithsauer.github.io/caribbean-collages/project-view.html){:target="_blank"}'
     image: /assets/img/twine-screenshot.jpg
     image_alt: "Screenshot of Twine project"
-    text: '[Continue to Project](https://meredithsauer.github.io/caribbean-collages/project-view.html){:target="_blank"}'
 ---
 The space of the Caribbean has been defined by scholars as marked by “its fragmentation; its instability; its reciprocal isolation; its uprootedness; its cultural heterogeneity; its lack of historiography and historical continuity; its contingency and impermanence; its syncretism” (Benítez-Rojo 1). The Caribbean has the dubious distinction of being the first region in which European colonists established the plantation system. The Caribbean “received more African slaves over a longer period of time, produced more sugar, and developed the most regimented plantation system of any region in the Americas” (Morgan 10). This prolonged period of encounter had an enormous human cost and resulted in profound cultural hybridization. Further, it’s difficult to separate the process of cultural creolization from a biological or ecological creolization. A kind of “creole ecology” resulted from the “constant arrival, dispersal, and mingling of new plants and animals” (Morgan 11). 
 
