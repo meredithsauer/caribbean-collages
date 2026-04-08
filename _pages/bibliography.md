@@ -72,7 +72,7 @@ Salter, Anastasia, and Stuart Moulthrop. *Twining: Critical and Creative Approac
 Tobin, Beth Fowkes. *Colonizing Nature: The Tropics in British Arts and Letters, 1760-1820*. University of Pennsylvania Press, 2005. *JSTOR*, [https://www.jstor.org/stable/j.ctt3fhw17](https://www.jstor.org/stable/j.ctt3fhw17).
 
 ## Images
-Brunias, Agostino. *View on the River Roseau, Dominica*. 1770-80. Art Institute of Chicago. [https://www.artic.edu/iiif/2/3b07d318-3be1-4e9a-e4ae-05700abcbc5b/full/843,/0/default.jpg](https://www.artic.edu/iiif/2/3b07d318-3be1-4e9a-e4ae-05700abcbc5b/full/843,/0/default.jpg).
+Brunias, Agostino. *View on the River Roseau, Dominica*. 1770-80. Art Institute of Chicago. [https://www.artic.edu/artworks/79037/view-on-the-river-roseau-dominica](https://www.artic.edu/artworks/79037/view-on-the-river-roseau-dominica).
 
 Homer, Winslow. *Hurricane, Bahamas*. 1898. Metropolitan Museum of Art. [https://www.metmuseum.org/art/collection/search/11124](https://www.metmuseum.org/art/collection/search/11124).
 
