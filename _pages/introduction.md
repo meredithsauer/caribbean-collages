@@ -5,6 +5,8 @@ sidebar:
   - title: '[Continue to Project](https://meredithsauer.github.io/caribbean-collages/project-view.html){:target="_blank"}'
     image: /assets/img/twine-screenshot.jpg
     image_alt: "Screenshot of Twine project"
+page_css:
+  - /assets/css/styles.css
 ---
 The space of the Caribbean has been defined by scholars as marked by “its fragmentation; its instability; its reciprocal isolation; its uprootedness; its cultural heterogeneity; its lack of historiography and historical continuity; its contingency and impermanence; its syncretism” (Benítez-Rojo 1). The Caribbean has the dubious distinction of being the first region in which European colonists established the plantation system. The Caribbean “received more African slaves over a longer period of time, produced more sugar, and developed the most regimented plantation system of any region in the Americas” (Morgan 10). This prolonged period of encounter had an enormous human cost and resulted in profound cultural hybridization. Further, it’s difficult to separate the process of cultural creolization from a biological or ecological creolization. A kind of “creole ecology” resulted from the “constant arrival, dispersal, and mingling of new plants and animals” (Morgan 11). 
 
@@ -18,4 +20,3 @@ This is the starting point for my investigation. I have selected three novels by
 
 Paying close attention to the way that the Caribbean landscape is written in these novels, the way that characters remember it and dream it, the way it is placed into relation with a disparate, unfamiliar European or North American landscape reveals a conception of land that pushes against colonial ideas of land as territory ripe for possession, domination, and cultivation, and the idea that there is only one history of conquest. 
 
-<a href="https://meredithsauer.github.io/caribbean-collages/project-view.html" target="_blank" class="btn">View Project</a>
