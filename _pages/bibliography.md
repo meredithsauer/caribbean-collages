@@ -74,7 +74,7 @@ Tobin, Beth Fowkes. *Colonizing Nature: The Tropics in British Arts and Letters,
 ## Images
 Brunias, Agostino. *View on the River Roseau, Dominica*. 1770-80. Art Institute of Chicago. [https://www.artic.edu/iiif/2/3b07d318-3be1-4e9a-e4ae-05700abcbc5b/full/843,/0/default.jpg](https://www.artic.edu/iiif/2/3b07d318-3be1-4e9a-e4ae-05700abcbc5b/full/843,/0/default.jpg).
 
-Homer, Winslow. *Hurricane, Bahamas*. 1898. Metropolitan Museum of Art. [https://collectionapi.metmuseum.org/api/collection/v1/iiif/11124/1914940/main-image](https://collectionapi.metmuseum.org/api/collection/v1/iiif/11124/1914940/main-image).
+Homer, Winslow. *Hurricane, Bahamas*. 1898. Metropolitan Museum of Art. [https://www.metmuseum.org/art/collection/search/11124](https://www.metmuseum.org/art/collection/search/11124).
 
 Oller, Francisco. *Hacienda Aurora*. 1898. Museo de Arte de Ponce. *Smarthistory*, [https://smarthistory.org/wp-content/uploads/2023/01/Hacienda-Aurora.jpg](https://smarthistory.org/wp-content/uploads/2023/01/Hacienda-Aurora.jpg).
 
