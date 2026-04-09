@@ -53,6 +53,12 @@ defaults:
 atom_feed: 
   hide: true
 
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fa-brands fa-github"
+      url: "https://github.com/meredithsauer/caribbean-collages"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
