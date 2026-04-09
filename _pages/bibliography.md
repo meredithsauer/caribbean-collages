@@ -41,9 +41,9 @@ Tiffin, Helen. “Cold Hearts and (Foreign) Tongues: Recitation and the Reclamat
 
 Tinsley, Omise’eke Natasha. *Thiefing Sugar: Eroticism between Women in Caribbean Literature*. Duke University Press, 2010.
 
-Triana Solórzano, Andrés. “Plant of the Month: Hibiscus.” *JSTOR Daily*, 28 Apr. 2023, https://daily.jstor.org/plant-of-the-month-hibiscus/.
+Triana Solórzano, Andrés. “Plant of the Month: Hibiscus.” *JSTOR Daily*, 28 Apr. 2023, [https://daily.jstor.org/plant-of-the-month-hibiscus/](https://daily.jstor.org/plant-of-the-month-hibiscus/).
 
-Wordsworth, William. “I Wandered Lonely as a Cloud.” *Poetry Foundation*, https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud.
+Wordsworth, William. “I Wandered Lonely as a Cloud.” *Poetry Foundation*, [https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud](https://www.poetryfoundation.org/poems/45521/i-wandered-lonely-as-a-cloud).
 
 ## Works Consulted and Suggestions for Further Reading
 Brockelman, Thomas P. *The Frame and the Mirror: On Collage and the Postmodern*. Northwestern University Press, 2001. 
