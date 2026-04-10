@@ -74,7 +74,7 @@ Tobin, Beth Fowkes. *Colonizing Nature: The Tropics in British Arts and Letters,
 ## Images
 Brunias, Agostino. *View on the River Roseau, Dominica*. 1770-80. Art Institute of Chicago. [https://www.artic.edu/artworks/79037/view-on-the-river-roseau-dominica](https://www.artic.edu/artworks/79037/view-on-the-river-roseau-dominica).
 
-*Carolina Moth with fruit resembling custard apple*. 1731. Wellcome Collection. *JSTOR*, [https://www.jstor.org/stable/community.24749617](https://www.jstor.org/stable/community.24749617).
+*Carolina moth with fruit resembling custard apple*. 1731. Wellcome Collection. *JSTOR*, [https://www.jstor.org/stable/community.24749617](https://www.jstor.org/stable/community.24749617).
 
 Homer, Winslow. *Hurricane, Bahamas*. 1898. Metropolitan Museum of Art. [https://www.metmuseum.org/art/collection/search/11124](https://www.metmuseum.org/art/collection/search/11124).
 
