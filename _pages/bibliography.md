@@ -74,6 +74,8 @@ Tobin, Beth Fowkes. *Colonizing Nature: The Tropics in British Arts and Letters,
 ## Images
 Brunias, Agostino. *View on the River Roseau, Dominica*. 1770-80. Art Institute of Chicago. [https://www.artic.edu/artworks/79037/view-on-the-river-roseau-dominica](https://www.artic.edu/artworks/79037/view-on-the-river-roseau-dominica).
 
+*Carolina Moth with fruit resembling custard apple*. 1731. Wellcome Collection. *JSTOR*, [https://www.jstor.org/stable/community.24749617](https://www.jstor.org/stable/community.24749617).
+
 Homer, Winslow. *Hurricane, Bahamas*. 1898. Metropolitan Museum of Art. [https://www.metmuseum.org/art/collection/search/11124](https://www.metmuseum.org/art/collection/search/11124).
 
 Oller, Francisco. *Hacienda Aurora*. 1898. Museo de Arte de Ponce. *Smarthistory*, [https://smarthistory.org/wp-content/uploads/2023/01/Hacienda-Aurora.jpg](https://smarthistory.org/wp-content/uploads/2023/01/Hacienda-Aurora.jpg).
@@ -86,4 +88,4 @@ Oller, Francisco. *Hacienda Aurora*. 1898. Museo de Arte de Ponce. *Smarthistory
 
 Prinssay, Jenny. *View of a bay on the island of Martinique*. 1814. *Wikimedia Commons*, [https://commons.wikimedia.org/wiki/File:Jenny_Prinssay_-_View_of_a_bay_on_the_island_of_Martinique_(1814).jpg](https://commons.wikimedia.org/wiki/File:Jenny_Prinssay_-_View_of_a_bay_on_the_island_of_Martinique_(1814).jpg).
 
-Sinclair, Francis, and Leighton Brothers. *An hibiscus flower (Hibiscus arnottianus): flowering stem*. 1887. Wellcome Collection. JSTOR, [https://www.jstor.org/stable/community.36643534](https://www.jstor.org/stable/community.36643534).
+Sinclair, Francis, and Leighton Brothers. *An hibiscus flower (Hibiscus arnottianus): flowering stem*. 1887. Wellcome Collection. *JSTOR*, [https://www.jstor.org/stable/community.36643534](https://www.jstor.org/stable/community.36643534).
