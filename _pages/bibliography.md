@@ -23,6 +23,8 @@ Freed-Thall, Hannah. “Thinking Small: Ecologies of Close Reading.” *Modernis
 
 Glissant, Edouard. *Caribbean Discourse: Selected Essays*. Translated by J. Michael Dash, University Press of Virginia, 1989. 
 
+James, Erin. *The Storyworld Accord: Econarratology and Postcolonial Narratives*. University of Nebraska Press, 2015. *JSTOR*, [https://doi.org/10.2307/j.ctt1d9898m](https://doi.org/10.2307/j.ctt1d9898m).
+
 ---. *Poetics of Relation*. Translated by Betsy Wing, University of Michigan Press, 1997.
 
 Kincaid, Jamaica. *A Small Place*. 1988. Picador, 2025.
@@ -55,11 +57,11 @@ Dillon, Elizabeth Maddock, and Kate Simpkins. “Makandal and Pandemic Knowledge
 
 Elkins, Amy. *Crafting Feminism from Literary Modernism to the Multimedia Present*. Oxford University Press, 2022.
 
+Gikandi, Simon. *Writing in Limbo: Modernism and Caribbean Literature*. Cornell University Press, 1992. *JSTOR*, [https://www.jstor.org/stable/10.7591/j.ctt207g6bv](https://www.jstor.org/stable/10.7591/j.ctt207g6bv).
+
 Gosser Esquilín, Mary Ann. *Culture, Nature, and the Other in Caribbean Literature: An Ecocritical Approach*. Cambria Press, 2023. 
 
 Hoving, Isabel. *Writing the Earth Darkly: Globalization, Ecocriticism, and Desire*. Lexington Books, 2017. *ProQuest Ebook Central*, [https://ebookcentral.proquest.com/lib/luc/detail.action?docID=4791058&pq-origsite=primo](https://ebookcentral.proquest.com/lib/luc/detail.action?docID=4791058&pq-origsite=primo).
-
-James, Erin. *The Storyworld Accord: Econarratology and Postcolonial Narratives*. University of Nebraska Press, 2015. *JSTOR*, [https://doi.org/10.2307/j.ctt1d9898m](https://doi.org/10.2307/j.ctt1d9898m).
 
 Landow, George P. *Hyper/Text/Theory*. Johns Hopkins University Press, 1994.
 
