@@ -37,6 +37,8 @@ Landow, George P. *Hypertext 2.0*. Johns Hopkins University Press, 1997.
 
 Morgan, Philip J., et al. *Sea and Land: An Environmental History of the Caribbean*. Oxford University Press, 2022. *Oxford Academic*, [https://doi.org/10.1093/oso/9780197555446.001.0001](https://doi.org/10.1093/oso/9780197555446.001.0001).
 
+Posner, Miriam. "What’s Next: The Radical, Unrealized Potential of Digital Humanities.” *Debates in the Digital Humanities*, 2016, [https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#ch03].
+
 Rhys, Jean. *Voyage in the Dark*. 1934. Penguin Classics, 2019. 
 
 Tiffin, Helen. “Cold Hearts and (Foreign) Tongues: Recitation and the Reclamation of the Female Body in the Works of Erna Brodber and Jamaica Kincaid.” *Callaloo*, vol. 16, no. 4, 1993, pp. 909–21. *JSTOR*, [https://doi.org/10.2307/2932217](https://doi.org/10.2307/2932217).
