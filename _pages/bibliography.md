@@ -23,9 +23,9 @@ Freed-Thall, Hannah. “Thinking Small: Ecologies of Close Reading.” *Modernis
 
 Glissant, Edouard. *Caribbean Discourse: Selected Essays*. Translated by J. Michael Dash, University Press of Virginia, 1989. 
 
-James, Erin. *The Storyworld Accord: Econarratology and Postcolonial Narratives*. University of Nebraska Press, 2015. *JSTOR*, [https://doi.org/10.2307/j.ctt1d9898m](https://doi.org/10.2307/j.ctt1d9898m).
-
 ---. *Poetics of Relation*. Translated by Betsy Wing, University of Michigan Press, 1997.
+
+James, Erin. *The Storyworld Accord: Econarratology and Postcolonial Narratives*. University of Nebraska Press, 2015. *JSTOR*, [https://doi.org/10.2307/j.ctt1d9898m](https://doi.org/10.2307/j.ctt1d9898m).
 
 Kincaid, Jamaica. *A Small Place*. 1988. Picador, 2025.
 
