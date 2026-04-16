@@ -2,7 +2,7 @@
 title: "Introduction"
 permalink: /introduction/
 sidebar:
-  - title: '[Continue to Project](https://meredithsauer.github.io/caribbean-collages/project-view.html){:target="_blank"}'
+  - title: '[Continue to Project](https://meredithsauer.github.io/caribbean-collages/project/){:target="_blank"}'
     image: /assets/img/twine-screenshot.jpg
     image_alt: "Screenshot of Twine project"
 page_css:
