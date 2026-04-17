@@ -10,8 +10,10 @@ toc_icon: "book"
 ## About this Site 
 The interactive, hypertext essay project at the heart of this site was built with <a href="https://twinery.org/" target="_blank">Twine</a>, an open-source platform for creating interactive, non-linear stories. At the simplest level, Twine stories are constructed as webs of text passages connected by hyperlinks. Twine is built on transparency, openness, and accessibility: no specialized coding experience is required to create a story. 
 
-![Screenshot of Twine passages connected by arrows]({{ '/assets/img/twine-backend.jpg' | relative_url }})
-
+<figure>
+    ![Screenshot of Twine passages connected by arrows]({{ '/assets/img/twine-backend.jpg' | relative_url }})
+    <figcaption>This is the back end of the essay—an ecosystem in its own right.</figcaption>
+</figure>
 
 This site was created with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, a static site generator, and customized with the theme <a href="https://mmistakes.github.io/minimal-mistakes/" target="_blank">Minimal Mistakes</a>. It is hosted with GitHub Pages.
 
