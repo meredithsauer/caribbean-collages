@@ -11,7 +11,7 @@ toc_icon: "book"
 The interactive, hypertext essay project at the heart of this site was built with <a href="https://twinery.org/" target="_blank">Twine</a>, an open-source platform for creating interactive, non-linear stories. At the simplest level, Twine stories are constructed as webs of text passages connected by hyperlinks. Twine is built on transparency, openness, and accessibility: no specialized coding experience is required to create a story. 
 
 <figure>
-  <img src="/assets/img/twine-backend.jpg" alt="screenshot of Twine passages connected by arrows.">
+  <img src="./assets/img/twine-backend.jpg" alt="screenshot of Twine passages connected by arrows.">
   <figcaption>This is the back end of the essay—an ecosystem in its own right.</figcaption>
 </figure>
 
