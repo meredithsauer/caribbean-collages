@@ -12,7 +12,8 @@ The interactive, hypertext essay project at the heart of this site was built wit
 
 
 ![Screenshot of Twine passages connected by arrows]({{ '/assets/img/twine-backend.jpg' | relative_url }})
-<figcaption>This is the back end of the essay—an ecosystem in its own right.</figcaption>
+<figcaption style="text-aligin: center;">This is the back end of the essay—an ecosystem in its own right.</figcaption>
+
 
 This site was created with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, a static site generator, and customized with the theme <a href="https://mmistakes.github.io/minimal-mistakes/" target="_blank">Minimal Mistakes</a>. It is hosted with GitHub Pages.
 
