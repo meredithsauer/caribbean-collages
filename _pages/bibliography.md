@@ -41,6 +41,8 @@ Posner, Miriam. "What’s Next: The Radical, Unrealized Potential of Digital Hum
 
 Rhys, Jean. *Voyage in the Dark*. 1934. Penguin Classics, 2019. 
 
+“Slave Trade, Exploration, American Beginnings: 1492-1690,” *Primary Resources in U.S. History and Literature*, National Humanities Center, [https://nationalhumanitiescenter.org/pds/amerbegin/exploration/text7/text7read.htm](https://nationalhumanitiescenter.org/pds/amerbegin/exploration/text7/text7read.htm). 
+
 Tiffin, Helen. “Cold Hearts and (Foreign) Tongues: Recitation and the Reclamation of the Female Body in the Works of Erna Brodber and Jamaica Kincaid.” *Callaloo*, vol. 16, no. 4, 1993, pp. 909–21. *JSTOR*, [https://doi.org/10.2307/2932217](https://doi.org/10.2307/2932217).
 
 Tinsley, Omise’eke Natasha. *Thiefing Sugar: Eroticism between Women in Caribbean Literature*. Duke University Press, 2010.
