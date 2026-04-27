@@ -8,7 +8,7 @@ toc_icon: "book"
 *Collages of the Environment in Caribbean Literature* is a semester-long capstone project produced to satisfy the requirements of the MA in Digital Humanities at Loyola University Chicago.
 
 ## About this Site 
-The interactive, hypertext essay project at the heart of this site was built with <a href="https://twinery.org/" target="_blank">Twine</a>, an open-source platform for creating interactive, non-linear stories. At the simplest level, Twine stories are constructed as webs of text passages connected by hyperlinks. Twine is built on transparency, openness, and accessibility: no specialized coding experience is required to create a story. 
+The interactive, hypertext essay project at the heart of this site was built with <a href="https://twinery.org/" target="_blank">Twine</a>, an open source platform for creating interactive, nonlinear stories. At the simplest level, Twine stories are constructed as webs of text passages connected by hyperlinks. Twine is built on transparency, openness, and accessibility: no specialized coding experience is required to create a story. 
 
 <figure>
   <img src="../assets/img/twine-backend-crop.jpg" alt="Screenshot of Twine passages connected by arrows.">
